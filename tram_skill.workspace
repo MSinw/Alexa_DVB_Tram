@@ -1,0 +1,11 @@
+{
+ "NodeJS": {
+  "metadata": {
+   "version": "1.0",
+   "ide": "CodeLite",
+   "type": "NodeJS"
+  },
+  "folders": ["D:\\Dokumente\\martin\\IT\\Alexa\\tram_skill"],
+  "m_showHiddenFiles": false
+ }
+}
